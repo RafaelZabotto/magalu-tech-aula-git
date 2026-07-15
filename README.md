@@ -1,3 +1,5 @@
+Primeiro commit na v0.1
+
 Purchase Transaction API - STEWART NUNES
 
 Spring Boot microservice to:
