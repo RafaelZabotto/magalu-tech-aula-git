@@ -1,3 +1,21 @@
+TA
+USANDO MUITA IA
+
+COMANDOS
+git clone git@...
+git status
+git add .
+git commit -m "Descrição da alteração"
+git push
+
+
+
+
+
+
+
+
+
 # Purchase Transaction API
 
 Spring Boot microservice to:
